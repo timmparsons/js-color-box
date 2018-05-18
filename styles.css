@@ -1,0 +1,21 @@
+select {
+	margin-bottom: 25px;
+}
+
+#box {
+	height: 100px;
+	width: 100px;
+	background-color: green;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
